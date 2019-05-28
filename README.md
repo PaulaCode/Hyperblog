@@ -10,5 +10,6 @@ En este curso vemos:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de freddy
+* Creado por el increíble platzi team
 
 Y como un amable recordatorio: **Este README es un chiste** diseñado para el ejemplo. Si llegas hasta aca **no** te lo tomes enserio y mejor ve [**a ver el curso.**](https://platzi.com/cursos/git-github/ "a ver el cuso")
